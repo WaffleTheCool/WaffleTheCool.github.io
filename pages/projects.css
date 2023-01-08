@@ -1,0 +1,29 @@
+body {
+    color: #eee;
+    background-color: #121212;
+
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px solid rgb(255, 251, 251);
+}
+
+body a {
+    color: #809fff
+}
+
+
+.dinocorddisc  {
+    text-align: left;
+
+    border-bottom: 1px solid rgb(255, 251, 251);
+
+}
+
+.beatsabermods {
+    text-align: left;
+
+    border-bottom: 1px solid rgb(255, 251, 251);
+
+}
